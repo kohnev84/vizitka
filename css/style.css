@@ -1,0 +1,109 @@
+@font-face {
+    font-family: Jx Tabe DEMO;
+    src: url(./JxTabeDemoRegular.ttf);
+
+}
+
+.main {
+    width: 920px;
+    height: 950px;
+    background-color: #ED760E;
+    position: relative;
+    left: 492px;
+    border-radius: 20px;
+}
+
+.title {
+    font-family: Jx Tabe DEMO;
+    position: absolute;
+    left: 385px;
+}
+
+.text_1 {
+    font-family: Jx Tabe DEMO;
+    font-size: 1.5rem;
+    position: absolute;
+    top: 64px;
+    left: 84px;
+}
+
+.text_2 {
+    font-family: Jx Tabe DEMO;
+    font-size: 1.5rem;
+    position: absolute;
+    top: 190px;
+    left: 84px;
+}
+
+.text_3 {
+    font-family: Jx Tabe DEMO;
+    font-size: 1.5rem;
+    position: absolute;
+    top: 395px;
+    left: 84px;
+}
+
+.text_4 {
+    font-family: Jx Tabe DEMO;
+    font-size: 1.5rem;
+    position: absolute;
+    top: 495px;
+    left: 84px;
+}
+
+.foto_container_1 {
+    width: 75px;
+    height: 75px;
+    position: absolute;
+    top: 300px;
+    left: 320px;
+
+}
+
+.foto_container_2 {
+    width: 75px;
+    height: 75px;
+    position: absolute;
+    top: 300px;
+    left: 80px;
+}
+
+.foto_container_3 {
+    width: 75px;
+    height: 75px;
+    position: absolute;
+    top: 300px;
+    left: 200px;
+}
+
+.foto_1,
+.foto_2,
+.foto_3 {
+    width: 75px;
+    height: 75px;
+    object-fit: cover;
+}
+
+.foto_4 {
+    width: 250px;
+    height: 350px;
+    position: absolute;
+    top: 585px;
+    left: 35px;
+}
+
+.foto_5 {
+    width: 250px;
+    height: 350px;
+    position: absolute;
+    top: 585px;
+    left: 333px;
+}
+
+.foto_6 {
+    width: 250px;
+    height: 350px;
+    position: absolute;
+    top: 585px;
+    left: 636px;
+}
